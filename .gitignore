@@ -2,6 +2,7 @@
 /dist/
 /target/
 /test/
+/.settings/
 .classpath
 .project
 licenseheader.txt
