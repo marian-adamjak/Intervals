@@ -31,5 +31,29 @@ Intervals is small Java library to manipulate with intervals (typically mathemat
 * To store data for reservation systems
 * ...
 
+#### Maven repository information
+
+```xml
+<repositories>
+    <repository>
+        <releases>
+            <enabled>true</enabled>
+            <updatepolicy>always</updatepolicy>
+            <checksumPolicy>fail</checksumPolicy>
+        </releases>
+        <id>Nexus</id>
+        <name>tomas adamjak</name>
+        <url>http://repo.adamjak.net/nexus/content/repositories/adamjak_net_releases/</url>
+        <layout>default</layout>
+    </repository>
+</repositories>
+
+<dependency>
+    <groupid>net.adamjak.utils</groupid>
+    <artifactid>Intervals</artifactid>
+    <version>1.0.0-RELEASE</version>
+</dependency>
+```
+
 ### Author
 Marian Adamjak, Slovakia, <marian@adamjak.net>
