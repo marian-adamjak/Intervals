@@ -38,15 +38,13 @@ Intervals is small Java library to manipulate with intervals (typically mathemat
     <repository>
         <releases>
             <enabled>true</enabled>
-            <updatepolicy>always</updatepolicy>
             <checksumPolicy>fail</checksumPolicy>
         </releases>
-        <id>Nexus</id>
-        <name>tomas adamjak</name>
+        <id>adamjak_net_release</id>
         <url>http://repo.adamjak.net/nexus/content/repositories/adamjak_net_releases/</url>
         <layout>default</layout>
     </repository>
-</repositories>
+  </repositories>
 
 <dependency>
     <groupid>net.adamjak.utils</groupid>
