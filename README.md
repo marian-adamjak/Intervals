@@ -31,7 +31,7 @@ Intervals is small Java library to manipulate with intervals (typically mathemat
 * To store data for reservation systems
 * ...
 
-#### Maven repository information
+#### Maven dependency and repository information
 
 ```xml
 <repositories>
