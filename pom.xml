@@ -3,7 +3,7 @@
     
     <groupId>net.adamjak.utils</groupId>
     <artifactId>Intervals</artifactId>
-    <version>1.1.0-RELEASE</version>
+    <version>1.2.0-RELEASE</version>
     <packaging>jar</packaging>
     
     <name>Intervals</name>
@@ -32,7 +32,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>18.0</version>
+            <version>24.1.1-jre</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>

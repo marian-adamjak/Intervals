@@ -49,7 +49,7 @@ Intervals is small Java library to manipulate with intervals (typically mathemat
 <dependency>
     <groupid>net.adamjak.utils</groupid>
     <artifactid>Intervals</artifactid>
-    <version>1.0.0-RELEASE</version>
+    <version>1.2.0-RELEASE</version>
 </dependency>
 ```
 
