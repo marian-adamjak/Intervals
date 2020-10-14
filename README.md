@@ -54,4 +54,5 @@ Intervals is small Java library to manipulate with intervals (typically mathemat
 ```
 
 ### Author
-Marian Adamjak, Slovakia, <marian@adamjak.net>
+Marian Adamjak, Slovakia, <madamjak001@gmail.com>
+
